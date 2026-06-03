@@ -4,7 +4,7 @@ Myself Himadri, a BSc Statistics and Data Science student.
 
 Currently in my 1st Year, learning how to code and do Statistics + mathematics. 
 
-Future goals
+**Future goals:**
 + Machine Learning
 + Advanced data visualisation
 +  Research
