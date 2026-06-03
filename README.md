@@ -1,16 +1,22 @@
-## Hi there 👋
+# Welcome to my profile (❁´◡`❁)
 
-<!--
-**himadrifting-max/himadrifting-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Myself Himadri, a BSc Statistics and Data Science student.
 
-Here are some ideas to get you started:
+Currently in my 1st Year, learning how to code and do Statistics + mathematics. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Future goals
++ Machine Learning
++ Advanced data visualisation
++  Research
++  Kaggle competitions
+  
+My favourite thing to do is to make visualisations. 
+
+**Fun Fact about me:**
++ I own a cat.
++ I like mountains.
++ I play a lot of RPG and story games (My favourite game is Like a Dragon).
++ Hobbies: taking long walks, badminton, rock hounding.
+  
+"Learning something new every day"
+
