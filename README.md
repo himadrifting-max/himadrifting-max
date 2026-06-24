@@ -1,6 +1,6 @@
 # Welcome to my profile (❁´◡`❁)
 
-Myself Himadri, a BSc Statistics and Data Science student.
+I'm Himadri, a BSc Statistics and Data Science student.
 
 Currently in my 1st Year, learning how to code and do Statistics + mathematics. 
 
@@ -10,7 +10,7 @@ Currently in my 1st Year, learning how to code and do Statistics + mathematics.
 +  Research
 +  Kaggle competitions
   
-My favourite thing to do is to make visualisations. 
+My favourite thing to do is to solve mathematics by programming. 
 
 **Fun Fact about me:**
 + I own a cat.
