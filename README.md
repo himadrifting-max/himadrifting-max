@@ -10,7 +10,7 @@ Currently in my 1st Year, learning how to code and do statistics.
 + Research
 + Explore and build new things
   
-My favourite thing to do is to solve mathematics by programming. 
+My favourite thing is to explore new stuff and build more things
 
 **Fun Fact about me:**
 + I own a cat.
