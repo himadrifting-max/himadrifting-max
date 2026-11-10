@@ -4,11 +4,11 @@ I'm Himadri, a BSc Statistics and Data Science student.
 
 Currently in my 1st Year, learning how to code and do statistics. 
 
-**Future goals:**
+**Future goals and ideas:**
 + Machine Learning
 + Explore an interdisciplinary field where I combine Statistics with another subject of my liking
 + Research
-+ 
++ Explore and build new things
   
 My favourite thing to do is to solve mathematics by programming. 
 
@@ -20,5 +20,8 @@ My favourite thing to do is to solve mathematics by programming.
   
 "Learning something new every day"
 
-[My Steam ID](https://steamcommunity.com/id/DragonLordHimadri/)
+**My socials**
+- [My Steam ID](https://steamcommunity.com/id/DragonLordHimadri/)
+- Discord Username: dragonlordhimadri
+
 
