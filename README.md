@@ -25,3 +25,47 @@ My favourite thing is to explore new stuff and build more things
 - Discord Username: dragonlordhimadri
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+## ⬡ YoRHa SYSTEM — LANGUAGE ANALYSIS
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="assets/languages-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="assets/languages-light.svg"
+  />
+  <img
+    src="assets/languages-dark.svg"
+    width="100%"
+    alt="YoRHa Language Statistics"
+  />
+</picture>
+
+
