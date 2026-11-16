@@ -9,6 +9,7 @@ Currently in my 1st Year, learning how to code and do statistics.
 + Explore an interdisciplinary field where I combine Statistics with another subject of my liking
 + Research
 + Explore and build new things
++ Learn Linux (started already)
   
 My favourite thing is to explore new stuff and build more things
 
